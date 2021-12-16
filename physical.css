@@ -1,5 +1,5 @@
 .wordmarkWindows-1v0lYD::after {
-    content: "Ja'Crispy";
+    content: "Ja'Crispy"; #This changes the words "discord" on the top left
     display: block;
     position: relative;
     width: 200px;
@@ -8,5 +8,5 @@
     font-family: var(--font-headline);
     font-size: 20px;
     font-weight: 600;
-    color: var(--muted-text);
+    color: white; #color any color can be set
 }
