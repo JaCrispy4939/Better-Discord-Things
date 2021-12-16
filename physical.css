@@ -1,0 +1,12 @@
+.wordmarkWindows-1v0lYD::after {
+    content: "Ja'Crispy";
+    display: block;
+    position: relative;
+    width: 200px;
+    height: 16px;
+    line-height: 16px;
+    font-family: var(--font-headline);
+    font-size: 20px;
+    font-weight: 600;
+    color: var(--muted-text);
+}
